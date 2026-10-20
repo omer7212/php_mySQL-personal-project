@@ -39,3 +39,9 @@ $emri=$_POST['emri'];
         }
 
 }
+
+
+//Authorization and authentication
+//User Roles (Admin User)
+//2-3 CRUD
+//Design bootstrap optional
